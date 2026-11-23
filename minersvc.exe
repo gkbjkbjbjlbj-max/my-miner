@@ -3,4 +3,5 @@
 int main() {
     std::cout << "Miner is running..." << std::endl;
     return 0;
+
 }
